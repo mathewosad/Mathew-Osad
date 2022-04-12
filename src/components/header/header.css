@@ -68,6 +68,7 @@ header {
         
     }
 }
+
 /* media queries for small devices  */
 @media screen and (max-width: 600px) {
     header {
