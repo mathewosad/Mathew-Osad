@@ -2,7 +2,7 @@ import React from 'react'
 import './about.css'
 import ME from '../../assets/me-about.jpg'
 import {FaAward} from 'react-icons/fa'
-import {HiOutlineUsers} from 'react-icons/hi'
+// import {HiOutlineUsers} from 'react-icons/hi'
 import {AiOutlineFolderOpen} from 'react-icons/ai'
 
 const About = () => {
@@ -24,11 +24,11 @@ const About = () => {
               <small> 1+ Year Working</small>
             </article>
 
-            <article className="about__card">
+            {/* <article className="about__card">
               <HiOutlineUsers className="about__icon"/>
               <h5>Clients</h5>
               <small> 50 + Clients Worldwide</small>
-            </article>
+            </article> */}
 
             <article className="about__card">
               <AiOutlineFolderOpen className="about__icon"/>
