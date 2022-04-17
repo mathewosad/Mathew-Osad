@@ -17,24 +17,24 @@ import 'swiper/css/pagination';
 const data = [
   { 
     avatar: AVATAR1,
-    name: 'VIsion Dee',
-    review: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
+    name: 'Ernesto Sanchez',
+    review: 'We’ve joined our hands on several projects, and Matt is one of the best people I had as a partner. I highly recommend his expertise to any person looking for a front-end Developer. He is the most profound person I have met, and his ability to tackle any problem is remarkable and with a warm smile. Matt would become an appreciated member of any team.'
   },
   {
     avatar: AVATAR2,
     name: 'Hajia Bintu',
-    review: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
+    review: 'Mathew is a fantastic resource and a natural communicator, and we collaborated on a project together. He ensures that all deadlines are met, and that they are met to the greatest of standards. He is a devoted and hardworking individual who will complete your project on schedule. Mathew is someone I would refer and support.'
   },
   {
     avatar: AVATAR3,
     name: 'Ryan Achu',
-    review: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
-  },
-  { 
-    avatar: AVATAR4,
-    name: 'Ernesto Sanchez',
-    review: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
+    review: 'Matt is the best teammate I’ve ever had. He is one of the most dedicated professionals I’ve ever worked with, and he is always prepared to lend a hand when needed. His experience as a developer is extensive, and it has aided our team in developing more effective solutions for various projects. He makes a vital contribution on the side, and I definitely suggest Matt and would love to work with him again.'
   }
+  // { 
+  //   avatar: AVATAR4,
+  //   name: 'Ernesto Sanchez',
+  //   review: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
+  // }
 ]
 
 const Testimonials = () => {
