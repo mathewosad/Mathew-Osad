@@ -7,14 +7,14 @@ import IMG2 from '../../assets/3.png'
 const data = [
   {
     id: 1,
-    title: 'Project 1 MarvelousMovies',
+    title: 'MarvelousMovies',
     image: IMG1,
     github: 'https://github.com/bdejene19/MarvelousMoviesIndex',
     liveDemo: 'https://bdejene19.github.io/MarvelousMoviesIndex/'
   },
   {
     id: 2,
-    title: 'Project 2 GFeyTraded',
+    title: 'GetTraded',
     image: IMG2,
     github: 'https://github.com/bdejene19/getTraded',
     liveDemo: 'https://get-traded.herokuapp.com/'
