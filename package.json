@@ -5,7 +5,7 @@
   "private": true,
   "main": "src/index.js",
   "engines": {
-    "node": "12.11.1"
+    "node": "16.x"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
