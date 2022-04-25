@@ -4,6 +4,8 @@ Update every time I learn/achieve/complete  something new and exciting
 
 - 💬 My name is Mathew Osadolor, you can call me <b>Matt</b>
 
+## 👋🏼 Checkout my Deployed app on :<a href="https://mathewosad.github.io/Mathew-Osad/" target="_blank">Porfolio</a>
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -26,11 +28,13 @@ Update every time I learn/achieve/complete  something new and exciting
 <br>
 <br>
 
-<!-- The URL of the functional, deployed application.( https://mathewosad.github.io/My_Portfolio/)
+## Intro: I implemented skills I learned in bootcamp, plus I am a sucker for new technologies and templets, so click the link and write me an email through my deployed app, and we can take it from there.
 
-The URL of the GitHub repository. (https://github.com/mathewosad/My_Portfolio)
+The URL of the functional, deployed application.( https://mathewosad.github.io/Mathew-Osad/)
 
-Screenshot
+The URL of the GitHub repository. (https://github.com/mathewosad/Mathew-Osad)
+
+<!-- <-- Screenshot
 ![](./assets/images/portfolio.JPG) -->
 
 ### Let's Connect!
