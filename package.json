@@ -1,17 +1,14 @@
 {
   "name": "mathewosad",
-  "homepage": "https://mathewosad.github.io/Mathew-Osad/",
+  "homepage": "https://mathewosad.github.io/Mathew-Osad",
   "version": "0.1.0",
   "private": false,
-  "main": "src/index.js",
-  "engines": {
-    "node": "16.x"
-  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
     "emailjs-com": "^3.2.0",
+    "npm": "^7.23.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-icons": "^4.3.1",
@@ -25,8 +22,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "develop": "concurrently \"cd src && node index.js  \" \"cd client && npm start\""
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
