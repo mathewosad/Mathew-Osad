@@ -2,7 +2,7 @@
   "name": "mathewosad",
   "homepage": "https://mathewosad.github.io/react-gh-pages",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "main": "src/index.js",
   "engines": {
     "node": "16.x"
