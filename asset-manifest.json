@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.f1866afb.css",
-    "main.js": "/react-gh-pages/static/js/main.c8c46ce6.js",
-    "static/media/1.png": "/react-gh-pages/static/media/1.cb030551a464c37ba27e.png",
-    "static/media/me-about.jpg": "/react-gh-pages/static/media/me-about.c0077608d05224117dff.jpg",
-    "static/media/me.png": "/react-gh-pages/static/media/me.af5a93ed7992679e51a5.png",
-    "static/media/3.png": "/react-gh-pages/static/media/3.2867b1f82c68c8eb9cfa.png",
-    "static/media/resume.pdf": "/react-gh-pages/static/media/resume.395d64dbb71a52de266d.pdf",
-    "index.html": "/react-gh-pages/index.html",
-    "main.f1866afb.css.map": "/react-gh-pages/static/css/main.f1866afb.css.map",
-    "main.c8c46ce6.js.map": "/react-gh-pages/static/js/main.c8c46ce6.js.map"
+    "main.css": "/Mathew-Osad/static/css/main.f1866afb.css",
+    "main.js": "/Mathew-Osad/static/js/main.15cadeaa.js",
+    "static/media/1.png": "/Mathew-Osad/static/media/1.cb030551a464c37ba27e.png",
+    "static/media/me-about.jpg": "/Mathew-Osad/static/media/me-about.c0077608d05224117dff.jpg",
+    "static/media/me.png": "/Mathew-Osad/static/media/me.af5a93ed7992679e51a5.png",
+    "static/media/3.png": "/Mathew-Osad/static/media/3.2867b1f82c68c8eb9cfa.png",
+    "static/media/resume.pdf": "/Mathew-Osad/static/media/resume.395d64dbb71a52de266d.pdf",
+    "index.html": "/Mathew-Osad/index.html",
+    "main.f1866afb.css.map": "/Mathew-Osad/static/css/main.f1866afb.css.map",
+    "main.15cadeaa.js.map": "/Mathew-Osad/static/js/main.15cadeaa.js.map"
   },
   "entrypoints": [
     "static/css/main.f1866afb.css",
-    "static/js/main.c8c46ce6.js"
+    "static/js/main.15cadeaa.js"
   ]
 }
